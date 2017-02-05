@@ -1,8 +1,8 @@
 {
   "name": "demo_app",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A demo web-application",
-  "main": "app.js",
+  "main": "dummy_app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,12 @@
   "license": "",
   "dependencies": {
     "express": "^4.14.0",
+    "lodash": "^4.17.4",
     "lodash.clone": "^4.5.0",
+    "log4js": "^1.1.0",
     "node-uuid": "^1.4.7",
     "opentracing": "^0.13.0",
-    "request": "^2.79.0",
-    "shimmer": "^1.1.0"
+    "shimmer": "^1.1.0",
+    "winston": "^2.3.1"
   }
 }

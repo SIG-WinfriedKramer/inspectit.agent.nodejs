@@ -1,0 +1,230 @@
+[2017-02-05 16:25:47.550] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:25:47.716] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:26:25.505] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:26:25.637] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:26:57.197] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:26:57.392] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:27:03.464] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:27:03.616] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:28:20.812] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:28:41.934] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:29:16.879] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:29:17.030] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:29:49.234] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:29:49.361] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:31:37.143] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:31:37.280] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:33:14.184] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:33:14.312] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:37:09.929] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:37:09.958] [DEBUG] inspectIT - The inspectIT agent has been integrated in the module "http".
+[2017-02-05 16:37:10.041] [DEBUG] inspectIT - The inspectIT agent has been integrated in the module "express".
+[2017-02-05 16:37:10.053] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:38:49.810] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:38:49.842] [DEBUG] inspectIT - The inspectIT agent has patched the module "http".
+[2017-02-05 16:38:49.929] [DEBUG] inspectIT - The inspectIT agent has patched the module "express".
+[2017-02-05 16:38:49.942] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:44:39.635] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:44:39.665] [DEBUG] inspectIT - The inspectIT agent has patched the module "http".
+[2017-02-05 16:44:39.745] [DEBUG] inspectIT - The inspectIT agent has patched the module "express".
+[2017-02-05 16:44:39.756] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 16:58:07.121] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 16:58:07.154] [DEBUG] inspectIT - The inspectIT agent has patched the module "http".
+[2017-02-05 16:58:07.254] [DEBUG] inspectIT - The inspectIT agent has patched the module "express".
+[2017-02-05 16:58:07.266] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:06:26.935] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:06:58.847] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:08:13.531] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:08:42.443] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:08:42.568] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:10:46.336] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:10:46.345] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:10:46.450] [DEBUG] inspectIT - |- http
+[2017-02-05 18:10:46.456] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:11:17.350] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:11:17.358] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:11:17.519] [DEBUG] inspectIT - |-
+ http
+[2017-02-05 18:11:17.528] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:13:45.461] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:13:45.469] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:13:45.579] [DEBUG] inspectIT - |- http
+[2017-02-05 18:13:45.585] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:14:50.931] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:14:50.938] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:14:51.050] [DEBUG] inspectIT - |- express
+[2017-02-05 18:14:51.051] [DEBUG] inspectIT - |- http
+[2017-02-05 18:14:51.056] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:19:21.259] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:19:21.267] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:19:21.374] [DEBUG] inspectIT - |- http
+[2017-02-05 18:19:21.380] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:19:43.998] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:19:44.007] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:19:44.139] [DEBUG] inspectIT - |- http
+[2017-02-05 18:19:44.145] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:23:07.125] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:23:07.134] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:23:14.960] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:23:33.969] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:23:33.977] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:23:34.103] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:23:42.369] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:23:42.377] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:23:42.524] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:24:05.850] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:24:05.857] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:24:14.309] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:24:48.097] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:24:48.105] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:24:49.679] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:27:52.428] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:27:52.437] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:27:54.032] [DEBUG] inspectIT - |- 0
+[2017-02-05 18:27:57.650] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:29:00.465] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:29:00.473] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:29:05.682] [DEBUG] inspectIT - |- http
+[2017-02-05 18:29:05.839] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:38:04.443] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:38:04.451] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:38:04.451] [DEBUG] inspectIT - |- undefined
+[2017-02-05 18:38:04.567] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:39:52.301] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:39:52.310] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:39:52.310] [DEBUG] inspectIT - |- inspectit-http
+[2017-02-05 18:39:52.463] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:46:52.112] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:46:52.122] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:46:52.122] [DEBUG] inspectIT - |- http
+[2017-02-05 18:46:52.147] [DEBUG] inspectIT - The inspectIT agent has patched the module "http".
+[2017-02-05 18:46:54.776] [DEBUG] inspectIT - Patch the "http" module.
+[2017-02-05 18:46:54.891] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:47:42.494] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:47:42.502] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:47:42.502] [DEBUG] inspectIT - |- http
+[2017-02-05 18:47:45.829] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:47:45.925] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:48:25.805] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:48:25.814] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:48:25.814] [DEBUG] inspectIT - |- http
+[2017-02-05 18:48:25.839] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:48:25.928] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:52:46.995] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:52:47.003] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:52:47.004] [DEBUG] inspectIT - |- express
+[2017-02-05 18:52:47.004] [DEBUG] inspectIT - |- http
+[2017-02-05 18:52:47.022] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:52:47.100] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 18:52:47.111] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:53:09.890] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:53:09.898] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:53:09.899] [DEBUG] inspectIT - |- express
+[2017-02-05 18:53:09.899] [DEBUG] inspectIT - |- http
+[2017-02-05 18:53:09.920] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:53:10.010] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 18:53:10.023] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:54:21.166] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:54:21.176] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:54:21.177] [DEBUG] inspectIT - |- express
+[2017-02-05 18:54:21.177] [DEBUG] inspectIT - |- http
+[2017-02-05 18:54:21.200] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:54:21.285] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 18:54:21.298] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:54:49.341] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:54:49.350] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:54:49.351] [DEBUG] inspectIT - |- express
+[2017-02-05 18:54:49.351] [DEBUG] inspectIT - |- http
+[2017-02-05 18:54:49.371] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:54:49.462] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 18:54:49.475] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:57:50.831] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:57:50.837] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:57:50.838] [DEBUG] inspectIT - |- express
+[2017-02-05 18:57:50.838] [DEBUG] inspectIT - |- http
+[2017-02-05 18:57:50.886] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:57:51.041] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 18:57:51.055] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:58:32.622] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:58:32.629] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:58:32.630] [DEBUG] inspectIT - |- express
+[2017-02-05 18:58:32.630] [DEBUG] inspectIT - |- http
+[2017-02-05 18:58:32.650] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:58:32.739] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 18:58:32.754] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:59:49.571] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 18:59:49.577] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 18:59:49.578] [DEBUG] inspectIT - |- express
+[2017-02-05 18:59:49.578] [DEBUG] inspectIT - |- http
+[2017-02-05 18:59:49.598] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 18:59:49.685] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 18:59:49.699] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 18:59:53.177] [TRACE] inspectIT - Span Span {
+  _tracer: InspectITTracer {},
+  _operationName: 'http_request',
+  _startTime: 1486317593163,
+  _traceId: '00ce9aeb-a38f-4d78-8d61-fd0d0eac8c3e',
+  _spanId: '9dbf2548-3f66-4fc4-b0b7-cc1a3fa902fe',
+  _tags: { host: 'localhost', port: 8182, path: '/rest/cmr/status' },
+  _duration: 14 }
+[2017-02-05 18:59:53.180] [TRACE] inspectIT - Span Span {
+  _tracer: InspectITTracer {},
+  _operationName: 'express_request',
+  _startTime: 1486317593162,
+  _traceId: '00ce9aeb-a38f-4d78-8d61-fd0d0eac8c3e',
+  _spanId: '31bc7679-2251-4ff2-9ce4-33f260d40605',
+  _tags: 
+   { req_url: '/',
+     req_method: 'GET',
+     req_headers: 
+      { host: 'localhost:3333',
+        'user-agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        cookie: 'grafana_user=admin; grafana_remember=02c272b7d592ecaae5ed3c56a414d7545f10bdba995c4035; grafana_sess=fb024bbc01f46940',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        pragma: 'no-cache',
+        'cache-control': 'no-cache' },
+     req_remoteAddress: '1',
+     res_statusCode: 200 },
+  _duration: 18 }
+[2017-02-05 19:00:16.045] [INFO] inspectIT - inspectIT NodeJS-agent (v0.0.1) is running.
+[2017-02-05 19:00:16.054] [DEBUG] inspectIT - Loading all available patches:
+[2017-02-05 19:00:16.054] [DEBUG] inspectIT - |- express
+[2017-02-05 19:00:16.055] [DEBUG] inspectIT - |- http
+[2017-02-05 19:00:16.085] [DEBUG] inspectIT - Patching the "http" module..
+[2017-02-05 19:00:16.190] [DEBUG] inspectIT - Patching the "express" module..
+[2017-02-05 19:00:16.203] [DEBUG] inspectIT - Agent registered with id 49552
+[2017-02-05 19:00:17.081] [TRACE] inspectIT - Received span: Span {
+  _tracer: InspectITTracer {},
+  _operationName: 'http_request',
+  _startTime: 1486317617073,
+  _traceId: '5ff82a70-4553-476a-9b8e-399ae027f9d5',
+  _spanId: '79517e97-444f-409d-8094-fc70d83cd4c9',
+  _tags: { host: 'localhost', port: 8182, path: '/rest/cmr/status' },
+  _duration: 8 }
+[2017-02-05 19:00:17.083] [TRACE] inspectIT - Received span: Span {
+  _tracer: InspectITTracer {},
+  _operationName: 'express_request',
+  _startTime: 1486317617073,
+  _traceId: '5ff82a70-4553-476a-9b8e-399ae027f9d5',
+  _spanId: 'e2bfa3f7-d6f6-4d4f-8074-5013e8efc457',
+  _tags: 
+   { req_url: '/',
+     req_method: 'GET',
+     req_headers: 
+      { host: 'localhost:3333',
+        'user-agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        cookie: 'grafana_user=admin; grafana_remember=02c272b7d592ecaae5ed3c56a414d7545f10bdba995c4035; grafana_sess=fb024bbc01f46940',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        pragma: 'no-cache',
+        'cache-control': 'no-cache' },
+     req_remoteAddress: '1',
+     res_statusCode: 200 },
+  _duration: 9 }

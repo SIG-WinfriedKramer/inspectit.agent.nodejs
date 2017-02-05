@@ -1,4 +1,8 @@
-require('./src/inspectit-agent.js').init();
+require('./src/inspectit-agent.js').init({
+  cmrHost: '127.0.0.1',
+  cmrPort: 8182,
+  logDirectory: './logs'
+});
 
 var express = require('express')
 var app = express()

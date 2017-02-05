@@ -1,6 +1,8 @@
 var Span = require('./inspectit-span');
 var cls = require('continuation-local-storage').getNamespace('inspectit');
 
+var logger = require('log4js').getLogger('inspectIT');
+
 var tracer = InspectITTracer.prototype;
 
 function InspectITTracer() {
@@ -30,7 +32,7 @@ tracer.extract = function (format, carrier) {
 };
 
 tracer.store = function (span) {
-    console.log('>> SPAN: ' + JSON.stringify(span));
+    logger.trace('Received span:', (span));
 };
 
 module.exports = InspectITTracer;
