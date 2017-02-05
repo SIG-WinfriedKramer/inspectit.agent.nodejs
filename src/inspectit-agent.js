@@ -13,6 +13,8 @@ var http = require('http');
 var packageJson = require('../package.json');
 var fs = require('fs');
 
+var sampler = require('./inspectit-sampler');
+
 var InspectITTracer = require('./inspectit-tracer');
 
 
@@ -20,17 +22,28 @@ var InspectITTracer = require('./inspectit-tracer');
 // ###   agent properties
 // ########################################
 
+/** The inspectIT tracer. */
 var tracer = new InspectITTracer();
 
+/** The agent configuration. */
 var configuration;
 
+/** The id registrated on the CMR. */
 var agentId;
 
+/** Module names of modules which can be patched. */
 var availablePatches = [];
 
 // ########################################
 // ###   functions
 // ########################################
+
+/**
+ * Storing data of the inspectIT sampler.
+ */
+var storeSample = function (sample) {
+
+};
 
 /**
  * Injects the agent in the given module.
@@ -66,11 +79,15 @@ var injectAgent = function (module, arguments) {
  * Registers the agent on the CMR.
  */
 var registerAgent = function () {
-  // make nice
-  var ip = os.networkInterfaces()['Wireless Network Connection 3'][0].address;
+  // get network interface addresses
+  var ips = _.flattenDeep(_.map(os.networkInterfaces(), function (interface) {
+    return _.map(interface, function (adapter) {
+      return adapter.address;
+    });
+  }));
 
   var data = JSON.stringify({
-    'ips': [ip],
+    'ips': ips,
     'name': 'Node Agent',
     'version': packageJson.version
   });
@@ -112,7 +129,6 @@ var lookupAvailablePatches = function () {
   var files = fs.readdirSync(patchDirectory);
 
   for (var i in files) {
-    //var moduleName = (files[i].split('.')[0]).split('-')[1];
     var moduleName = files[i].split('.')[0];
     availablePatches.push(moduleName);
     logger.debug('|- ' + moduleName);
@@ -140,6 +156,9 @@ var patchLoadingProcess = function () {
   });
 };
 
+/** 
+ * Exports the module
+ */
 module.exports = {
   /**
    * Initializes the inspectIT agent.
@@ -167,5 +186,10 @@ module.exports = {
     lookupAvailablePatches();
 
     patchLoadingProcess();
-  }
+
+    // start sampler
+    sampler.start(this);
+  },
+
+  storeSample: storeSample
 };
