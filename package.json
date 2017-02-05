@@ -1,0 +1,19 @@
+{
+  "name": "demo_app",
+  "version": "1.0.0",
+  "description": "A demo web-application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Oehler",
+  "license": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash.clone": "^4.5.0",
+    "node-uuid": "^1.4.7",
+    "opentracing": "^0.13.0",
+    "request": "^2.79.0",
+    "shimmer": "^1.1.0"
+  }
+}
